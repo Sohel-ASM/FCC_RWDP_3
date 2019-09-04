@@ -149,3 +149,17 @@ body {
     margin: 1rem 0;
     display: flex;
 }
+
+.icon {
+    flex: 1 10%;
+    align-self: center;
+}
+
+.desc {
+    flex: 90%;
+    line-height: 1.5;
+}
+
+.desc h3 {
+    text-decoration: underline;
+}
