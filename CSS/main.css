@@ -214,3 +214,13 @@ body {
     padding: 0.3rem 0;
     background: rgba(0, 0, 0, 0.7);
 }
+
+#trucks {
+    flex: 1 20%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    margin: 1rem 1.5rem;
+    padding: 0.5rem 0;
+    background: rgba(0, 0, 0, 0.7);
+}
