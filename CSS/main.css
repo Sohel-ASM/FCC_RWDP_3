@@ -32,3 +32,19 @@ body {
     flex-flow: row wrap;
     justify-content: space-between;
 }
+
+#brand-logo {
+    display: flex;
+    flex-flow: row wrap;
+    flex: 1 40%;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1rem 2rem 2rem;
+}
+
+#header-img {
+    border: .2rem solid black;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 30%;
+}
