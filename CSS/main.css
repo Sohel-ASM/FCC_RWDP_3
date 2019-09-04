@@ -324,3 +324,15 @@ body {
     flex: 1 30%;
     margin-left: 0.4rem;
 }
+
+.s_media {
+    list-style: none;
+    padding: 0.3rem;
+    border-radius: 10%;
+}
+
+.s_media:hover,
+.s_media:focus {
+    background: rgba(0, 0, 0, 0.3);
+    border-bottom: 2px solid green;
+}
