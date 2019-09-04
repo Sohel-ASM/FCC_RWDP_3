@@ -234,3 +234,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.3rem;
 }
+
+#third h3 {
+    margin: 0.9rem auto;
+    padding: 0.5rem;
+    font-style: oblique;
+    color: rgb(255, 146, 13);
+}
