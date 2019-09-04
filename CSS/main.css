@@ -257,3 +257,19 @@ body {
     padding: 0.5rem 0;
     font-style: italic;
 }
+
+#third .btn {
+    border: 1px solid black;
+    border-radius: 9%;
+    font-size: 1rem;
+    font-weight: 600;
+    width: 50%;
+    margin: 0.3rem auto;
+    padding: 0.2rem 0;
+}
+
+.btn:hover,
+.btn:focus {
+    background: orange;
+    letter-spacing: 0.1rem;
+}
