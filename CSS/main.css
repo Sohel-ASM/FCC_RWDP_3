@@ -336,3 +336,15 @@ body {
     background: rgba(0, 0, 0, 0.3);
     border-bottom: 2px solid green;
 }
+
+#facebook a {
+    color: blue;
+}
+
+#twitter a {
+    color: orange;
+}
+
+#google a {
+    color: red;
+}
