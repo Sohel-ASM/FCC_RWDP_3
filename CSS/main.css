@@ -283,3 +283,12 @@ body {
     flex-flow: column wrap;
     background: rgb(255, 176, 133);
 }
+
+#About {
+    width: 90%;
+    margin: 0.2rem auto 0.8rem;
+    padding: 1rem 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
