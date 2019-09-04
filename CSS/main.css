@@ -241,3 +241,19 @@ body {
     font-style: oblique;
     color: rgb(255, 146, 13);
 }
+
+#third p {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0.6rem auto;
+}
+
+#third ul {
+    list-style: square;
+    margin: 0 0 0.9rem;
+}
+
+#third ul li {
+    padding: 0.5rem 0;
+    font-style: italic;
+}
