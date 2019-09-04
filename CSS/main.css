@@ -315,3 +315,12 @@ body {
     background: orange;
     border-bottom: 2px solid black;
 }
+
+#right {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1 30%;
+    margin-left: 0.4rem;
+}
