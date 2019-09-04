@@ -78,3 +78,22 @@ body {
     border-radius: 10%;
     letter-spacing: 0.1rem;
 }
+
+#contact {
+    position: relative;
+    top: 8rem;
+    width: 60%;
+    margin: 4.5rem auto;
+    padding: 1rem 0;
+    display: flex;
+    flex-flow: column wrap;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: .3rem;
+}
+
+#contact h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
