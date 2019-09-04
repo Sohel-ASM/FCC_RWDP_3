@@ -142,3 +142,10 @@ body {
     display: flex;
     flex-flow: column wrap;
 }
+
+.grid {
+    font-size: 1.2rem;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 1rem 0;
+    display: flex;
+}
