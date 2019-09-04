@@ -348,3 +348,16 @@ body {
 #google a {
     color: red;
 }
+
+#copyright {
+    font-size: 0.8rem;
+    text-align: center;
+    letter-spacing: 0.1rem;
+    word-spacing: 0.1rem;
+}
+
+@media (max-width: 650px) {
+    #wrapper {
+        flex-flow: row wrap;
+    }
+}
