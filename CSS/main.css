@@ -69,3 +69,12 @@ body {
     padding: 0.5rem 1rem;
     color: rgb(20, 95, 110);
 }
+
+.nav-link:hover,
+.nav-link:focus {
+    background: orange;
+    font-weight: 700;
+    border-bottom: 2px solid black;
+    border-radius: 10%;
+    letter-spacing: 0.1rem;
+}
